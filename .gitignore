@@ -27,3 +27,8 @@ dist-ssr
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+# local devcontainer
+dev.config
+aws_config
+aws_credentials
